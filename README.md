@@ -30,7 +30,7 @@ The app is structured using **MVVM (Model-View-ViewModel) architecture** and **C
 - Uses **Repository Pattern** for data handling.
 - Supports both **local and remote data sources**.
 - Local data stored using **Room Database**.
-- Remote data fetched via **Retrofit API service**.
+- Remote data fetched via **Mock Repository**(for now).
 - Implements `TaskRepositoryImpl` for managing data.
 
 ## Tech Stack
